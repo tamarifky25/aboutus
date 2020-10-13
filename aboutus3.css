@@ -1,0 +1,85 @@
+.color-orange {
+  color: orange;
+}
+
+ul.btn-ellipse li a {
+  border-radius: 1.25rem !important;
+  padding: 5px 10px !important;
+}
+
+ul.btn-orange li a.active {
+  background-color: orange !important;
+  color: white !important;
+}
+
+ul.btn-orange li a {
+  color: orange !important;
+}
+
+.bottom-0 {
+  bottom: 0;
+}
+
+.img-circle {
+  position: relative;
+  left: 50%;
+  margin-left: -25%;
+  max-width: 50%;
+  margin-bottom: 1.5em;
+}
+
+.single-profile {
+  left: 50%;
+  margin-left: -35%;
+  max-width: 70%;
+}
+
+.linkedin-icon {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.linkedin-icon i {
+  color: black;
+}
+
+.image {
+  display: block;
+  object-fit: cover;
+  width: 100%;
+}
+
+.img-circle .image {
+  border-radius: 50%;
+}
+
+.row {
+  padding: 10px 0;
+  margin: 10px 0;
+}
+
+.nav-link.active {
+  border-bottom: 2px solid white;
+}
+
+.img-circle img {
+  height: 100%;
+  min-width: 100%;
+}
+
+/* .image {
+  object-fit: cover;
+  object-position: 50% 0;
+  max-width: 100%;
+  height: auto;
+} */
+
+/* .img-circle {
+  position: relative;
+  overflow: hidden;
+  padding-bottom: 100%;
+}
+.img-circle img {
+  position: absolute;
+} */
